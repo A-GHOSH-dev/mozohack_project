@@ -28,3 +28,5 @@ Agro-News- All news and updates related to agriculture will be posted here and t
 Donation- Anyone can donate for the upliftment and well-being of the farmers and agriculture.
 
 Other features- Chatbot, Connecting with workers. 
+
+Website Link-https://harshsharma2210.github.io/mozohack_project/
